@@ -15,3 +15,6 @@ notebooks/.ipynb_checkpoints/TrainModel-checkpoint.ipynb
 .idea/modules.xml
 .idea/vcs.xml
 .idea/Breast-Cancer-Challenge.iml
+src/DONTLOOKINHERE/flask_hello_world.py
+src/DONTLOOKINHERE/get_requests.py
+src/DONTLOOKINHERE/make_requests.py
