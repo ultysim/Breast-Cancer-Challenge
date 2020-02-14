@@ -1,0 +1,17 @@
+
+data/breast-cancer.txt
+notebooks/.ipynb_checkpoints/EDA-checkpoint.ipynb
+.idea/Breast-Cancer-Challenge.iml
+.idea/Breast-Cancer-Challenge.iml
+.idea/inspectionProfiles/profiles_settings.xml
+*.xml
+*.iml
+*.xml
+notebooks/.ipynb_checkpoints/TestAPI-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/TrainModel-checkpoint.ipynb
+.idea/Breast-Cancer-Challenge.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/Breast-Cancer-Challenge.iml
